@@ -13,4 +13,4 @@ SSViewer:
 CatalogPage:
   extensions:
     - CatalogPageExtension
-  parentClass: 'CatalogParentPage'
+  parentClass: 'ShipHolder'

@@ -6,7 +6,7 @@ class ProduktAdmin extends CatalogPageAdmin {
 	private static $menu_title = 'Produkte';
 
 	private static $managed_models = array(
-		'Page',
+		'ShipPage',
 
 	);
 
