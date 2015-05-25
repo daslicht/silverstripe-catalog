@@ -12,7 +12,7 @@
 		"frankmullenger/gallery": "1.0.*@dev",
 		"rywa/silverstripe-foundation-forms": "dev-master",
 		"undefinedoffset/sortablegridfield": "master",
-		"ajshort/silverstripe-gridfieldextensions": "dev-master",
+		"silverstripe-australia/silverstripe-gridfieldextensions": "dev-master",
 		"littlegiant/silverstripe-catalogmanager": "dev-master"
 	},
 	"config": {
